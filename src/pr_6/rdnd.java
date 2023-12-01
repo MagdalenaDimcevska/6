@@ -1,5 +1,4 @@
 package pr_6;
-
 public class rdnd {
 private String color;
 private int x;
@@ -43,5 +42,4 @@ rdnd b1=new rdnd();
 b1.setY(9);
 System.out.println(b1.getY());
 	}
-
 }
